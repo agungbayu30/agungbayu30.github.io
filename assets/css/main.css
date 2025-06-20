@@ -226,6 +226,12 @@ h6 {
     padding: 6px 15px;
   }
 
+  @media (max-width: 370px) {
+    .header .btn-getstarted {
+      margin: 0 5px 0 0;
+    }
+  
+
   .header .navmenu {
     order: 3;
   }
